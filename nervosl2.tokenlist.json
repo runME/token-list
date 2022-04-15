@@ -1,0 +1,49 @@
+{
+  "name": "NERVOS",
+  "logoURI": "https://raw.githubusercontent.com/runME/token-list/master/assets/compound-interface.svg",
+  "keywords": [
+    "Nervos",
+    "defi"
+  ],
+  "timestamp": "2021-05-27T20:37:00.000+00:00",
+  "tokens": [
+    {
+      "chainId": 868455272153094,
+      "address": "0x86efaff75201Ed513c2c9061f2913eec850af56C",
+      "name": "CKB(Godwoken)",
+      "symbol": "CKB",
+      "decimals": 8,
+      "logoURI": "https://raw.githubusercontent.com/runME/token-list/master/assets/ckb.svg"
+    },
+    {
+      "chainId": 868455272153094,
+      "address": "0x5e9A6DB1C6eD4dEd950bEC587BE1C17cE41AEFad",
+      "name": "ETH|bridge",
+      "symbol": "ckETH",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/runME/token-list/master/assets/asset_ETH.svg"
+    },
+    {
+      "chainId": 868455272153094,
+      "address": "0x94b931EB0Cbb87CC516b166e08fc3327BFf7564a",
+      "name": "BNB|bridge",
+      "symbol": "BNB|bsc",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/runME/token-list/master/assets/ctoken_wbtc.svg"
+    },
+    {
+      "chainId": 868455272153094,
+      "address": "0x884541623C1B26A926a5320615F117113765fF81",
+      "name": "dCKB",
+      "symbol": "dCKB",
+      "decimals": 18,
+      "logoURI": "https://raw.githubusercontent.com/runME/token-list/master/assets/asset_POOL.svg"
+    }
+    
+  ],
+  "version": {
+    "major": 2,
+    "minor": 0,
+    "patch": 0
+  }
+}
